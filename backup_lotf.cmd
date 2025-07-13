@@ -1,0 +1,1 @@
+Powershell -noexit -file .\backup_lotf.ps1
